@@ -1,0 +1,16 @@
+<!-- 
+    1. start the git (git init)
+    2. add file on git (git add filename)
+    3. commit (git commit -m "meaningful message")
+    4. push file to github (git push)    
+
+
+    for initial state
+    1. set username and gmail
+    2. we have to verify github accout
+
+    option command
+    1. git status
+    
+
+-->
